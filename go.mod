@@ -5,7 +5,6 @@ go 1.12
 require (
 	github.com/PuerkitoBio/purell v1.1.0 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
-	github.com/cpuguy83/go-md2man v1.0.8 // indirect
 	github.com/emicklei/go-restful v2.8.0+incompatible // indirect
 	github.com/go-openapi/jsonpointer v0.0.0-20180322222829-3a0015ad55fa // indirect
 	github.com/go-openapi/jsonreference v0.0.0-20180322222742-3fb327e6747d // indirect
@@ -15,14 +14,12 @@ require (
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.4.2
 	github.com/googleapis/gnostic v0.2.0 // indirect
-	github.com/inconshreveable/mousetrap v0.0.0-20141017200713-76626ae9c91c // indirect
 	github.com/mailru/easyjson v0.0.0-20180723221831-d5012789d665 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/onsi/ginkgo v1.14.2 // indirect
 	github.com/onsi/gomega v1.10.3 // indirect
-	github.com/russross/blackfriday v1.5.1 // indirect
 	github.com/sirupsen/logrus v1.2.0
-	github.com/spf13/cobra v0.0.3
+	github.com/spf13/cobra v0.0.7
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.3.0
 	gopkg.in/yaml.v2 v2.3.0
