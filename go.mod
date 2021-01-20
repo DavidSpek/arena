@@ -25,7 +25,7 @@ require (
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.3.0
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	istio.io/api v0.0.0-20180824201241-76349c53b87f
 	k8s.io/api v0.16.9
 	k8s.io/apimachinery v0.16.9
