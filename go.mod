@@ -28,7 +28,7 @@ require (
 	gopkg.in/yaml.v2 v2.3.0
 	istio.io/api v0.0.0-20180824201241-76349c53b87f
 	k8s.io/api v0.16.9
-	k8s.io/apimachinery v0.16.9
+	k8s.io/apimachinery v0.20.2
 	k8s.io/client-go v0.0.0-00010101000000-000000000000
 	k8s.io/kube-openapi v0.0.0-20190816220812-743ec37842bf
 )
