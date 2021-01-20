@@ -13,7 +13,7 @@ require (
 	github.com/go-openapi/swag v0.0.0-20180703152219-2b0bd4f193d0 // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/googleapis/gnostic v0.2.0 // indirect
 	github.com/inconshreveable/mousetrap v0.0.0-20141017200713-76626ae9c91c // indirect
 	github.com/mailru/easyjson v0.0.0-20180723221831-d5012789d665 // indirect
