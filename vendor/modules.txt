@@ -69,8 +69,6 @@ github.com/imdario/mergo
 github.com/inconshreveable/mousetrap
 # github.com/json-iterator/go v1.1.7
 github.com/json-iterator/go
-# github.com/konsorten/go-windows-terminal-sequences v1.0.1
-github.com/konsorten/go-windows-terminal-sequences
 # github.com/magiconair/properties v1.8.1
 github.com/magiconair/properties
 # github.com/mailru/easyjson v0.0.0-20180723221831-d5012789d665
@@ -91,7 +89,7 @@ github.com/pelletier/go-toml
 github.com/pmezard/go-difflib/difflib
 # github.com/russross/blackfriday v1.5.1
 github.com/russross/blackfriday
-# github.com/sirupsen/logrus v1.2.0
+# github.com/sirupsen/logrus v1.8.1
 github.com/sirupsen/logrus
 # github.com/spf13/afero v1.2.2
 github.com/spf13/afero
